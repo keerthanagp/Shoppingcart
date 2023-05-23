@@ -1,0 +1,9 @@
+.footercls{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(130, 130, 130);
+}
+.footercls h3{
+    text-align: center;
+    font-size: 18px;
+}
